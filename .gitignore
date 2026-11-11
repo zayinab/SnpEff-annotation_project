@@ -1,0 +1,4 @@
+snpeff_data/
+snpEff.config
+data/*.gbk
+snpEff_*

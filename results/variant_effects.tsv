@@ -1,0 +1,25 @@
+pos	ref	alt	qual	effect	impact	gene	hgvs_c	hgvs_p
+9972	T	G	225.417	missense_variant	MODERATE	yaaH	c.521A>C	p.Asn174Thr
+263235	G	T	184.268	missense_variant	MODERATE	insB-3	c.195G>T	p.Arg65Ser
+281923	G	T	225.417	upstream_gene_variant	MODIFIER	yagW	c.-4924C>A	
+377000	T	G	200.298	missense_variant	MODERATE	insB-5	c.268A>C	p.Met90Leu
+433359	CTTTTTTT	CTTTTTTTT	228.409	upstream_gene_variant	MODIFIER	insL-2	c.-2580_-2579insA	
+473901	CCGC	CCGCGC	228.411	frameshift_variant	HIGH	ybaL	c.1401_1402insGC	p.Ala469fs
+648692	C	T	225.417	missense_variant	MODERATE	mrdB	c.206G>A	p.Arg69His
+1331794	C	A	225.417	missense_variant	MODERATE	topA	c.2375C>A	p.Thr792Lys
+1733343	G	A	225.417	missense_variant	MODERATE	pykF	c.379G>A	p.Asp127Asn
+2333538	AT	ATT	228.353	downstream_gene_variant	MODIFIER	elaC	c.*4501_*4502insT	
+2407766	A	C	228.26	missense_variant	MODERATE	insB-18	c.195T>G	p.Ser65Arg
+2446984	A	C	225.417	upstream_gene_variant	MODIFIER	ypdG	c.-4865T>G	
+2618472	G	T	178.217	missense_variant	MODERATE	insB-19	c.195G>T	p.Arg65Ser
+2665639	A	T	225.417	missense_variant	MODERATE	rplS	c.299T>A	p.Leu100Gln
+2999330	G	A	225.417	upstream_gene_variant	MODIFIER	speC	c.-4515C>T	
+3339313	A	C	225.417	missense_variant	MODERATE	fis	c.152A>C	p.Tyr51Ser
+3401754	C	A	225.417	missense_variant	MODERATE	rpsG	c.233G>T	p.Arg78Leu
+3481820	A	G	225.417	missense_variant	MODERATE	malT	c.136A>G	p.Thr46Ala
+3488669	A	C	225.422	missense_variant	MODERATE	glpR	c.538T>G	p.Ser180Ala
+3909807	G	T	225.417	upstream_gene_variant	MODIFIER	hdfR	c.-40C>A	
+4100183	A	G	225.417	missense_variant	MODERATE	hslU	c.1048T>C	p.Ser350Pro
+4201958	A	C	225.417	missense_variant	MODERATE	iclR	c.602T>G	p.Leu201Arg
+4431393	TGG	T	225.417	frameshift_variant	HIGH	ytfN	c.3526_3527delGG	p.Gly1176fs
+4616538	A	C	225.417	missense_variant	MODERATE	nadR	c.1010A>C	p.Tyr337Ser
